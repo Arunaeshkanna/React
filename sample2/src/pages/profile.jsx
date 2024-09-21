@@ -7,7 +7,7 @@ const Profile = () => {
     <>
     <div className="h-full w-full flex  items-center">
       <div className="h-80  w-[70%] flex  items-center  font-bold text-black text-4xl justify-center">
-        <h1>Hi folks Iam Arunaesh Kanna A K</h1>
+        <h1>Hi👋folks Iam Arunaesh Kanna A K</h1>
       </div>
       <div className="w-[30%] h-80 flex justify-center items-center py-3 shadow-lg">
           <img src={x} alt="Profile" className="rounded-full h-60 w-60" />
