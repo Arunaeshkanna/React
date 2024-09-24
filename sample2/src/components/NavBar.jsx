@@ -11,9 +11,9 @@ const Navbar = () => {
 
           <div className="h-full w-[50%] flex flex-row justify-center items-center ">
             <div className="h-full w-1/3 flex justify-center items-center font-bold text-xl text-white hover:bg-green-400 ">
-              
+              <Link to ={'/'}>
                 <button>Profile</button> 
-                  
+              </Link>    
             </div>
             
             <div className="h-full w-1/3 flex justify-center items-center font-bold text-xl text-white hover:bg-green-400">

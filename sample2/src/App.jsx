@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './components/Navbar'
+import Navbar from './components/NavBar'
 import WebLayouts from './layouts/WebLayouts'
 import Profile from './pages/Profile'
 import { BrowserRouter,Routes, Route }from 'react-router-dom'
